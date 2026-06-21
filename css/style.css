@@ -1,0 +1,13 @@
+body {
+background-image:<"images/APTR-1.png">;
+background-color:whitesmoke;
+border: 3px solid;
+border-color:darkgrey;
+color:#333333;
+padding: 0px 20px 20px 20px;
+width: 60%;
+height:auto;
+margin-left: 20%;
+margin-right: 20%;
+font-size: xx-large;
+}
